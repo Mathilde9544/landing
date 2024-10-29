@@ -1,0 +1,23 @@
+.footer{
+  width:100%;
+  margin: 0 auto;
+  padding: 100px;
+  background-color: rgb(55, 50, 50);
+  text-align: center;
+}
+
+
+.footer p{
+  color:grey;
+  text-align: center;
+}
+
+
+.icon{
+  color:#1EDD88;
+  height: 10px;
+}
+
+#heart{
+  color:red;
+}

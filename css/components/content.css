@@ -1,0 +1,37 @@
+
+.container h2{
+  width: 100%;
+  text-align: center;
+}
+
+.container{
+  margin: 0 auto;
+  width: 900px;
+}
+
+.content{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+
+.card{
+  width:28%;
+  display: inline-block;
+  border: 1px solid rgba(206, 190, 190, 0.464);
+  border-radius: 4px;
+  box-shadow: 2px 1px rgba(204, 199, 199, 0.221);
+  text-align: center;
+  margin:35px;
+  padding:15px
+}
+
+.card img{
+  width:100%;
+}
+
+.card p{
+  color:rgba(128, 128, 128, 0.652);
+
+}
